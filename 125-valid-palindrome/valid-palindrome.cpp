@@ -8,7 +8,6 @@ public:
                 clean += tolower(c);
             }
         }
-        cout << "length : " << clean.length() << endl;
 
         if (clean.length() == 0) {
             return true;
