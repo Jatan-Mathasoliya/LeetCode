@@ -1,15 +1,16 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
+        unordered_map<int, int> freq;
 
-        unordered_set<int> seen;
+        for(int n : nums){
+            freq[n]++;
 
-        for (int num : nums) {
-            if(seen.find(num) != seen.end()){
+            if(freq[n] > 1) {
+                cout << "repeating no. : " << n;
                 return true;
             }
-            seen.insert(num);
         }
         return false;
     }
-};
+};     
