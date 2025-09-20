@@ -8,8 +8,8 @@ public:
             freq[num]++;
 
             if (freq[num] > 1) {
-                return true;
                 cout << "num : " << num;
+                return true;
             }
         }
         return false;
