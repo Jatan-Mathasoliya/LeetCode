@@ -1,1 +1,1 @@
-<h2>append-characters-to-string-to-make-subsequence Notes</h2><hr>[ Time taken: 11 m 52 s ]
+<h2>append-characters-to-string-to-make-subsequence Notes</h2><hr>[ Time taken: 5 hrs 16 m 24 s ]
