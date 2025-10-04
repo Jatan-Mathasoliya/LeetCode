@@ -24,6 +24,7 @@ public:
             }
             temp = temp->next;
         }
+
         if(l1 != nullptr){
             temp->next = l1;
         }else if(l2 != nullptr){
