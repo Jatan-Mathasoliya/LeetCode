@@ -1,1 +1,1 @@
-<h2>linked-list-cycle Notes</h2><hr>[ Time taken: 38 m 8 s ]
+<h2>linked-list-cycle Notes</h2><hr>[ Time taken: 26 m 2 s ]
